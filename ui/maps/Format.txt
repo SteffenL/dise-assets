@@ -1,0 +1,5 @@
+Compression: JPEG
+Quality: 77
+
+Sizes:
+1:  2048x2048
